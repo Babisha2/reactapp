@@ -7,7 +7,7 @@ import Parotta from './pages/Parotta';
 import Burgers from './pages/Burgers';
 import Idli from './pages/Idli';
 import Noodles from './pages/Noodles';
-import Rest1 from './pages/rest1';
+import Rest1 from './pages/Rest1';
 import Cart from './Cart';
 import MenuList from './MenuList';
 import Payment from './Payment';
